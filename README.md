@@ -69,6 +69,3 @@
 - **Panic button** (Emergency shutdown button selection)
 
 ---
-
-This text is formatted for easy reading and use on GitHub. If you want to add something or make changes, just tell me — I'll take everything into account! ✨
-
